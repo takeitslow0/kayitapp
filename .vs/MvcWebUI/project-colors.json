@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "354770ea-6c8c-4744-95bd-f300bcc7349c": {
+      "ProjectGuid": "354770ea-6c8c-4744-95bd-f300bcc7349c",
+      "DisplayName": "MvcWebUI",
+      "ColorIndex": 0
+    },
+    "0246ebf5-9073-4021-8ca2-162c4d83d093": {
+      "ProjectGuid": "0246ebf5-9073-4021-8ca2-162c4d83d093",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "652df53b-4aa1-4cac-af29-85b2223c6633": {
+      "ProjectGuid": "652df53b-4aa1-4cac-af29-85b2223c6633",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "d0dba346-bfa1-4b5d-885d-be88e40d681a": {
+      "ProjectGuid": "d0dba346-bfa1-4b5d-885d-be88e40d681a",
+      "DisplayName": "AppCore",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
